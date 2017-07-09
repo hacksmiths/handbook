@@ -2,6 +2,12 @@
 
 Welcome to the Hacksmiths Committee. This document provides an outline of the expectations, structure and processes which we use to deliver our projects. If you have any questions, message our President - Kevin. Over time, this document may change or grow over time.
 
+## What are we?
+
+Hacksmiths is the student-run tech society a Goldsmiths, University of London. Our mission is to provide an opportunity for people in all departments, from all background, the chance to learn about, and play with, technology. We do this by organising talks, workshops and facilitating hackathons (invention marathons). 
+
+In the 2016-2017 academic year, we 28 events including three large hackathons - Sex Tech Hack, a Global Game Jam center, and our annual flagship, Anvil Hack. These events invited over 300 people from around the world to discover new skills to build weird, wacky and wonderful projects. We organised press coverage in both the print and online editions of New Scientist, Girl on the Net, and a prominent place in the nationally-broadcast BBC 1 documentary "Invented In… London". 
+
 ## Platforms we use
 
 * Hacksmiths HQ, based on Airtable, is the home for our team profiles, project details, finances and sponsorship details.
@@ -34,8 +40,6 @@ All dates for monthly committee meetings for the 2017-2018 academic year are alr
 2. We are for everyone - whatever background or skills our members may have, we want to provide environments for them to play with technology, learn and have fun. We aren't just for computer scientists.
 3. We listen to people's needs and try to facilitate them. We are flexible in our approach - whether we're running a workshop, an event, or something else. If we know ahead of time that people's needs differ, we must consider this when planning. 
 
----
-
 ## Being a Project Owner
 
 Part of being a Committee Member for Hacksmiths is the ability to become a Project Owner on one or more projects. Here are some top-level expectations of you in this role:
@@ -43,8 +47,6 @@ Part of being a Committee Member for Hacksmiths is the ability to become a Proje
 * Keep the Executive Committee in the loop. This includes team Whatsapp/Messenger chats, todo lists, and updates at least once a week. The updates can be to any member of the Executive Committee as they will propagate this information among each other once a week.
 * Create a resourcing plan - this includes a budget of everything you will need to spend, hand ow much support you feel you will need in planning/delivery stages.
 * Discuss with the Executive Committee your plans for funding your project. They can help, but we encourage you to find the funds yourself.
-
----
 
 ## Using Hacksmiths HQ
 
@@ -75,3 +77,10 @@ Here you should put names, companies and contact details of everyone who we inte
 ### Inventory
 
 This page is managed by the Secretary, but may be updated by anyone. It details what we own and where things are. This will hopefully mean we make full use of what we own, and don't re-buy items unnecessarily.
+
+## Partnering with other organisations
+
+You must always loop the President into these decisions. From previous projects, our main advice around this is that:
+
+* We should never pay to partner with an organisation without good reason.
+* One party must always be in charge - we are either in charge, or the partnering organisation are in charge. Don't go in to an equal joint venture as this takes much more time and disagreements may lead to unnecessary stress.
