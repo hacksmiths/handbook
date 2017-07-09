@@ -36,7 +36,7 @@ All dates for monthly committee meetings for the 2017-2018 academic year are alr
 
 ## Our values 
 
-1. The most important thing is clear, honest and open communication. Even if you don't know how to complete a task, want help, or are struggling and need to take a break. If you tell the executive committee, they can provide more support or resource to your project.
+1. **The most important thing is clear, honest and open communication. Even if you don't know how to complete a task, want help, or are struggling and need to take a break. If you tell the executive committee, they can provide more support or resource to your project.**
 2. We are for everyone - whatever background or skills our members may have, we want to provide environments for them to play with technology, learn and have fun. We aren't just for computer scientists.
 3. We listen to people's needs and try to facilitate them. We are flexible in our approach - whether we're running a workshop, an event, or something else. If we know ahead of time that people's needs differ, we must consider this when planning. 
 
