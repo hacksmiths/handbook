@@ -48,6 +48,10 @@ Part of being a Committee Member for Hacksmiths is the ability to become a Proje
 * Create a resourcing plan - this includes a budget of everything you will need to spend, hand ow much support you feel you will need in planning/delivery stages.
 * Discuss with the Executive Committee your plans for funding your project. They can help, but we encourage you to find the funds yourself.
 
+### Project Feedback
+
+After every project, it's your responsibility to have every Hacksmiths Committee Member who attends fill in our committee feedback form - it asks for both positive and critical feedback. We use this to make sure each event we run is better than the last. The form is [here](https://goo.gl/forms/FLVHcfprbgpjcH7g1).
+
 ## Using Hacksmiths HQ
 
 Hacksmiths HQ is our one-true-source of information. It contains our team profiles (names, roles, projects, pronouns, emails, etc), finance information (per-project, money in/out, who spent and expensed it, etc), project information (name, dates, team, etc) and a rundown of who we've spoken to about sponsorship/partnership. 
