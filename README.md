@@ -20,7 +20,7 @@ The Executive Committee is made up of four roles:
 * The Secretary, who is elected by members. They look after administration.
 * The Diversity & Inclusion Officer, who is appointed by the President, Treasurer and Secretary. They ensure our projects are inclusive, and work to make our society more diverse overall.
 
-Everybody else is a General Committee Member. They are given support by the Executive Committee and empowered to become Project Owners for projects they are interested in running (they may already exist, or they may be proposed as new projects).
+Everybody else is a General Committee Member. They are given support by the Executive Committee and empowered to become Project Owners for projects they are interested in running (they may already exist, or they may be proposed as new projects). You may also become a Project Supporter, and be involved in projects without taking charge - this is more flexible around your time. 
 
 ### Committee meetings
 
@@ -33,3 +33,45 @@ All dates for monthly committee meetings for the 2017-2018 academic year are alr
 1. The most important thing is clear, honest and open communication. Even if you don't know how to complete a task, want help, or are struggling and need to take a break. If you tell the executive committee, they can provide more support or resource to your project.
 2. We are for everyone - whatever background or skills our members may have, we want to provide environments for them to play with technology, learn and have fun. We aren't just for computer scientists.
 3. We listen to people's needs and try to facilitate them. We are flexible in our approach - whether we're running a workshop, an event, or something else. If we know ahead of time that people's needs differ, we must consider this when planning. 
+
+---
+
+## Being a Project Owner
+
+Part of being a Committee Member for Hacksmiths is the ability to become a Project Owner on one or more projects. Here are some top-level expectations of you in this role:
+
+* Keep the Executive Committee in the loop. This includes team Whatsapp/Messenger chats, todo lists, and updates at least once a week. The updates can be to any member of the Executive Committee as they will propagate this information among each other once a week.
+* Create a resourcing plan - this includes a budget of everything you will need to spend, hand ow much support you feel you will need in planning/delivery stages.
+* Discuss with the Executive Committee your plans for funding your project. They can help, but we encourage you to find the funds yourself.
+
+---
+
+## Using Hacksmiths HQ
+
+Hacksmiths HQ is our one-true-source of information. It contains our team profiles (names, roles, projects, pronouns, emails, etc), finance information (per-project, money in/out, who spent and expensed it, etc), project information (name, dates, team, etc) and a rundown of who we've spoken to about sponsorship/partnership. 
+
+### Team
+
+When you join the committee, you will be given a form to fill out which adds an entry to this page. It's useful for both new committee members, and to grab emails/phone numbers in one place. If your details change, you are expectedto update your entry.
+
+### Projects
+
+This page is managed by the Secretary. It details all of our projects, their teams, working budget (automatically worked out from the finances page), and more logistical information like date and length. 
+
+### Finances
+
+This page is managed by the Treasurer. You are expected to have the President or Treasurer approve all spending for Hacksmiths before you make the purchase. Each purchase **must** have an invoice/receipt, which is included in each finance entry - make sure you do this before expensing it. Status options are also important - here's what they mean:
+
+* Not paid for yet - make this entry when you're creating budgets for your events
+* Not expensed - you've bought the item but not claimed it back
+* SU - the SU has paid directly for this, or you have expensed it to the SU
+* DoC - the Department of Computing (DoC) has paid directly for this, or you have expensed it to the DoC
+* AF - this has been expensed against the money we have asked for from the Annual Fund
+
+### Sponsors/Partners
+
+Here you should put names, companies and contact details of everyone who we interact with. This makes it useful for Project Owners - it also means future committees don't have to start from scratch each year.
+
+### Inventory
+
+This page is managed by the Secretary, but may be updated by anyone. It details what we own and where things are. This will hopefully mean we make full use of what we own, and don't re-buy items unnecessarily.
