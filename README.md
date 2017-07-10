@@ -4,7 +4,7 @@ Welcome to the Hacksmiths Committee. This document provides an outline of the ex
 
 ## What are we?
 
-Hacksmiths is the student-run tech society a Goldsmiths, University of London. Our mission is to provide an opportunity for people in all departments abd from all backgrounds, the chance to learn about, and play with, technology. We do this by organising talks, workshops and facilitating hackathons (invention marathons). 
+Hacksmiths is the student-run tech society a Goldsmiths, University of London. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology. We do this by organising talks, workshops and facilitating hackathons (invention marathons). 
 
 In the 2016-2017 academic year, we held 28 events including three large hackathons - Sex Tech Hack, a Global Game Jam center, and our annual flagship, Anvil Hack. These events invited over 300 people from around the world to discover new skills to build weird, wacky and wonderful projects. We organised press coverage in both the print and online editions of New Scientist, Girl on the Net, and a prominent place in the nationally-broadcast BBC 1 documentary "Invented In… London". 
 
