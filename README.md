@@ -12,8 +12,9 @@ In the 2016-2017 academic year, we held 28 events including three large hackatho
 
 * Hacksmiths HQ, based on Airtable, is the home for our team profiles, project details, finances and sponsorship details.
 * Airtable also contains our credentials to login to other accounts.
+* Hacksmiths Ops, a GitHub repository, to manage our projects.
 * Private Facebook Group, to discuss things in a more informal setting.
-* Google Drive, to store files between one another.
+* Google Drive, to store files between one another. We have a new folder as of the 2017-18 academic year.
 
 When you join, you will be added to all of these platforms. More detail about Hacksmiths HQ is below. 
 
@@ -82,9 +83,6 @@ Here you should put names, companies and contact details of everyone who we inte
 
 This page is managed by the Secretary, but may be updated by anyone. It details what we own and where things are. This will hopefully mean we make full use of what we own, and don't re-buy items unnecessarily.
 
-## Partnering with other organisations
+## Using Hacksmiths Ops
 
-You must always loop the President into these decisions. From previous projects, our main advice around this is that:
-
-* We should never pay to partner with an organisation without good reason.
-* One party must always be in charge - we are either in charge, or the partnering organisation are in charge. Don't go in to an equal joint venture as this takes much more time and disagreements may lead to unnecessary stress.
+TODO
