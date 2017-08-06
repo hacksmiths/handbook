@@ -82,7 +82,3 @@ Here you should put names, companies and contact details of everyone who we inte
 ### Inventory
 
 This page is managed by the Secretary, but may be updated by anyone. It details what we own and where things are. This will hopefully mean we make full use of what we own, and don't re-buy items unnecessarily.
-
-## Using Hacksmiths Ops
-
-TODO
