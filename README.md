@@ -33,7 +33,7 @@ Everybody else is a General Committee Member. They are given support by the Exec
 
 Once a week, the Executive Committee will meet and make sure that they are across all of the projects being run. At these meetings, they will discuss projects, resourcing and sponsorship. Once a month, the entire committee will meet to discuss progress and make desicions. 
 
-All dates for monthly committee meetings for the 2017-2018 academic year are already set and you are expected to be at all of them. If you can't make it, please contact our Secretary before the meeting to make apologies. If you miss two meetings in a row, we will check that you still have time to be in the committee. If you miss three in a row - we will discuss whether you should be removed from the committee. By setting out all of these dates for the year, we hope you can make plans around them.
+All dates for monthly committee meetings for the 2017-2018 academic year are already set and you are expected to be at all of them. If you can't make it, please contact our Secretary before the meeting to make apologies. If you miss two meetings, we will check that you still have time to be in the committee. If you miss three, we will discuss whether you should be removed from the committee. By setting out all of these dates for the year, we hope you can make plans around them.
 
 ## Our values 
 
