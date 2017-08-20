@@ -12,7 +12,7 @@ In the 2016-2017 academic year, we held 28 events including three large hackatho
 
 * Hacksmiths HQ, based on Airtable, is the home for our team profiles, project details, finances and sponsorship details.
 * Airtable also contains our credentials to login to other accounts.
-* Hacksmiths Ops, a GitHub repository, to manage our projects.
+* Hacksmiths Pipes, also based on Airtable, to manage our sponsorship deals.
 * Private Facebook Group, to discuss things in a more informal setting.
 * Google Drive, to store files between one another. We have a new folder as of the 2017-18 academic year.
 
