@@ -180,7 +180,7 @@ Rather than give a complete guideline to sponsorship, I’ll defer to the sponso
 ## Inclusion
 Hacksmiths have a goal and responsibility to include as diverse an audience as possible in our community. 
 * As a society, we have a Diversity & Inclusion Officer, appointed by the President, Treasurer and Secretary. Their role is to work with the rest of the committee to ensure our messaging and delivery is suitable for a wider audience. 
-* The D&I Officer works with the women and newbies of the committee to deliver a Lovelace event every two months. 
+* The D&I Officer works with the women and enbies of the committee to deliver a Lovelace event every two months. 
 * We have a Hardware Lab to provide our community with the equipment and tools which they may not otherwise be able to access. We’re always working to extend this to include more resources, hopefully extending into PiTops/laptops and desktops. 
 	* We don’t lend these out as it would be difficult to manage a booking system, and maintain equipment when damaged. 
 * We also practice inclusive and non-gendered language when delivering as members of our committee. As leaders, it’s our job to act as role models for others: 
