@@ -12,20 +12,21 @@ In the 2016-2017 academic year, we held 28 events including three large hackatho
 
 * Hacksmiths HQ, based on Airtable, is the home for our team profiles, project details, finances and sponsorship details.
 * Airtable also contains our credentials to login to other accounts.
-* Hacksmiths Pipes, also based on Airtable, to manage our sponsorship deals.
 * Private Facebook Group, to discuss things in a more informal setting.
+* Whatsapp Group - mainly used for on-the-spot support requests.
 * Google Drive, to store files between one another. We have a new folder as of the 2017-18 academic year.
 
 When you join, you will be added to all of these platforms. More detail about Hacksmiths HQ is below. 
 
 ## Structure
 
-The Executive Committee is made up of four roles:
+The Executive Committee is made up of five roles:
 
 * The President, who is elected by members. They oversee the society and Project Owners.
 * The Treasurer, who is elected by members. They look after finances.
 * The Secretary, who is elected by members. They look after administration.
 * The Diversity & Inclusion Officer, who is appointed by the President, Treasurer and Secretary. They ensure our projects are inclusive, and work to make our society more diverse overall.
+* The Accessibility officer, who is appointed by the President, Treasurer and Secretary. They ensure events are comfortable for everyone, especially those for whon we should be making accessibility requirements. 
 
 Everybody else is a General Committee Member. They are given support by the Executive Committee and empowered to become Project Owners for projects they are interested in running (they may already exist, or they may be proposed as new projects). You may also become a Project Supporter, and be involved in projects without taking charge - this is more flexible around your time. 
 
@@ -34,12 +35,6 @@ Everybody else is a General Committee Member. They are given support by the Exec
 Once a week, the Executive Committee will meet and make sure that they are across all of the projects being run. At these meetings, they will discuss projects, resourcing and sponsorship. Once a month, the entire committee will meet to discuss progress and make desicions. 
 
 All dates for monthly committee meetings for the 2017-2018 academic year are already set and you are expected to be at all of them. If you can't make it, please contact our Secretary before the meeting to make apologies. If you miss two meetings, we will check that you still have time to be in the committee. If you miss three, we will discuss whether you should be removed from the committee. By setting out all of these dates for the year, we hope you can make plans around them.
-
-## Our values 
-
-1. **The most important thing is clear, honest and open communication. Even if you don't know how to complete a task, want help, or are struggling and need to take a break. If you tell the executive committee, they can provide more support or resource to your project.**
-2. We are for everyone - whatever background or skills our members may have, we want to provide environments for them to play with technology, learn and have fun. We aren't just for computer scientists.
-3. We listen to people's needs and try to facilitate them. We are flexible in our approach - whether we're running a workshop, an event, or something else. If we know ahead of time that people's needs differ, we must consider this when planning. 
 
 ## Being a Project Owner
 
@@ -73,12 +68,9 @@ This page is managed by the Treasurer. You are expected to have the President or
 * Not expensed - you've bought the item but not claimed it back
 * SU - the SU has paid directly for this, or you have expensed it to the SU
 * DoC - the Department of Computing (DoC) has paid directly for this, or you have expensed it to the DoC
-* AF - this has been expensed against the money we have asked for from the Annual Fund
+* AF 16 - this has been expensed against the money we have asked for from the Annual Fund in 2016/17 year
+* AF 17 - this has been expensed against the money we have asked for from the Alumni and Friends in 2017/18 year
 
-### Sponsors/Partners
+### Expense Reports
 
-Here you should put names, companies and contact details of everyone who we interact with. This makes it useful for Project Owners - it also means future committees don't have to start from scratch each year.
-
-### Inventory
-
-This page is managed by the Secretary, but may be updated by anyone. It details what we own and where things are. This will hopefully mean we make full use of what we own, and don't re-buy items unnecessarily.
+This page details all of the expense reports we hand in, so we have a reference of what we've handed in
